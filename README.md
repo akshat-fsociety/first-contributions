@@ -127,7 +127,7 @@ Now open `Contributors.md` file in a text editor, add your name to it. Don't add
 ## ***Note***
 
 While adding your name, always add your name in this format below.
-## - [Your Name](https://github.com/<Your Profile Name>)
+## - [Your Name](Link to your profile)
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
