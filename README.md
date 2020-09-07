@@ -124,6 +124,11 @@ git checkout -b add-alonzo-church
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
+## ***Note***
+
+While adding your name, always add your name in this format below.
+## - [Your Name](https://github.com/<Your Profile Name>)
+
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
 
